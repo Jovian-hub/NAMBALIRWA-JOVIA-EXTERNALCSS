@@ -1,0 +1,14 @@
+body{
+    background-color: brown;
+}
+main{
+    background-color: aquamarine;
+    margin: auto;
+    border: 2px solid blue;
+    padding: 5px;
+}
+ul{
+    background-color: aquamarine;
+    margin: auto;
+    border: 2px solid blanchedalmond;
+}
